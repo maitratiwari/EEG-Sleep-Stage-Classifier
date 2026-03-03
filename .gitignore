@@ -1,0 +1,17 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python environment
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Data & Large Files
+mne_data/
+*.edf
+*.txt
+*.log
+
+# System files
+.DS_Store
